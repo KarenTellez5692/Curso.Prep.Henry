@@ -1,0 +1,10 @@
+*Variables: Espacio en memoria donde podemos almacenar datos y a la cual se 
+le asigna un nombre
+
+*Funciones:  es un conjunto de lineas de codigo que realizan una tarea en
+especifico usando o determinados argumentos y retornan algo
+
+*Declaraciones `if`: se usa para evaluar si se cumple una condicion 
+
+*Valores booleanos Es un tipo de variable que solo almacena valores 
+de verdadero o falso  (`true`, `false`)
